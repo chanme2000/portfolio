@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wooyooo/static/css/main.8ea9aef4.css",
+    "main.js": "/wooyooo/static/js/main.0714ff90.js",
+    "static/media/work3.png": "/wooyooo/static/media/work3.79e206cd533946ada721.png",
+    "static/media/work1.png": "/wooyooo/static/media/work1.55d8a098fb6f60ae8ef3.png",
+    "static/media/work5.png": "/wooyooo/static/media/work5.1f9f843270c824603ec2.png",
+    "static/media/work6.png": "/wooyooo/static/media/work6.361d741910ed06fa2603.png",
+    "static/media/work2.png": "/wooyooo/static/media/work2.62c455a25554800dc13e.png",
+    "static/media/work7.png": "/wooyooo/static/media/work7.6d7cae0e8359b59597be.png",
+    "static/media/work8.png": "/wooyooo/static/media/work8.92caece2c688440eddab.png",
+    "static/media/wyoo.jpeg": "/wooyooo/static/media/wyoo.0bf46121c282a75bb66b.jpeg",
+    "static/media/work9.png": "/wooyooo/static/media/work9.c9f8b8c83905fea3afcd.png",
+    "static/media/work4.png": "/wooyooo/static/media/work4.74d1f680a9ba1d7d427f.png",
+    "static/media/work10.png": "/wooyooo/static/media/work10.a05a9ff244639fe09ab9.png",
+    "static/media/resume.pdf": "/wooyooo/static/media/resume.7d3e05dd441b113a83de.pdf",
+    "index.html": "/wooyooo/index.html",
+    "main.8ea9aef4.css.map": "/wooyooo/static/css/main.8ea9aef4.css.map",
+    "main.0714ff90.js.map": "/wooyooo/static/js/main.0714ff90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea9aef4.css",
+    "static/js/main.0714ff90.js"
+  ]
+}
